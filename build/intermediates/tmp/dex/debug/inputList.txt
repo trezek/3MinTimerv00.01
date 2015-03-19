@@ -1,0 +1,5 @@
+/Users/kenntrezek/Documents/VMShare/AndroidStudio/CountDown/app/build/intermediates/classes/debug
+/Users/kenntrezek/Documents/VMShare/AndroidStudio/CountDown/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-bf1d044a705bed9400b19ce8b53de16c771ea4b4.jar
+/Users/kenntrezek/Documents/VMShare/AndroidStudio/CountDown/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ba70bbb9e1a2c625e613aa5ee8a7cec162fd4477.jar
+/Users/kenntrezek/Documents/VMShare/AndroidStudio/CountDown/app/build/intermediates/pre-dexed/debug/classes-e05c8b98698d1d18d050d007dab57f22b8e25600.jar
+/Users/kenntrezek/Documents/VMShare/AndroidStudio/CountDown/app/build/intermediates/pre-dexed/debug/classes-431b1569b8a4e2f5c50094d6ce09ec9670d88d0f.jar
